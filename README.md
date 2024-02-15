@@ -18,11 +18,11 @@
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-3E75EB?style=for-the-badge&logo=https://avatars.githubusercontent.com/u/26833451?s=280&v=4&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=assholeonlyur&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=assholeonlyur&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=assholeonlyur&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=NetraGupta1201&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NetraGupta1201&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NetraGupta1201&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ "I said you are the semicolon to my code, and she said I code in python"
 
 ---
-[![](https://visitcount.itsvg.in/api?id=assholeonlyur&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=NetraGupta1201&icon=0&color=12)](https://visitcount.itsvg.in)
