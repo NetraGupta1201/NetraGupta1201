@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on ML Processing algorithms for bacterial detection models using python<br>🤝 Looking for help with UI/UX<br>🌱 Learning Java<br>💬 Ask me about anything, I'd be happy to help<br>⚡ It's all about 0's and 1's
+🔭 Currently working on robotics projects<br>💬 Ask me about anything, I'd be happy to help<br>⚡ It's all about 0's and 1's
 
 
 ## 🌐 Socials:
